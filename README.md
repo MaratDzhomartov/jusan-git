@@ -1,6 +1,8 @@
 # stepik-id-printer (h1)
+![Произошла непредвиденная ошибка](https://github.com/MaratDzhomartov/TechOrda/blob/main/git/4%20branch/jusan-logo.png)
 
 Это проект для вывода моего персонального идентификатора на _образовательной платформе_ `stepik.org`.
+
 
 ## Возможности (h2)
 

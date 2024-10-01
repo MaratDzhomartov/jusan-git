@@ -1,1 +1,1 @@
-"Данный репозиторий содержит скрипт для вывода моего ID  на stepik.org." 
+"This repository contains a script to output my ID to stepik.org ." 

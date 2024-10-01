@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Marat Dzhomartov"
+echo "Marat Dzhomartov!"

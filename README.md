@@ -55,3 +55,5 @@ int main() {
 | LinkedIn  | [Ссылка](linked.in) | 3 часа    |
 | WhatsApp  | [Ссылка](whats.app) | 30 минут  |
 | Telegram  | [Ссылка](tg.me)     | 5 минут   |
+
+скрипт username.sh выводит фамилию и имя пользователя
